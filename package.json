@@ -1,6 +1,6 @@
 {
   "name": "testlab-sdk-react",
-  "version": "0.2.1",
+  "version": "1.0.0",
   "description": "TestLab SDK for use with React Applications",
   "main": "dist/main.js",
   "scripts": {
